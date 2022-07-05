@@ -1,10 +1,22 @@
  ### Hiya I'm Maize A. V. Newby
+ I am a full stack software engineer with a background in game art and design, graphic design and illustration. I have skills in both front end and back end development, and I love to dig into a problem to find creative solutions. I am passionate about creating web applications to solve real problems that are accessible to end users with various needs. I build these solutions using the MERN stack.
+ 
  🌱 I’m currently learning ...
 ### 😄 Pronouns: They/Them
 ### ⚡ Fun fact: ...
-🌱 Passionate about full stack web development, game development and illstration, and digital accessibility.
+<br>🌱 Passionate about full stack web development, game development and illstration, and growing with a team of creative problem solvers.
+<br>👯 Looking to collaborate on Open-source projects.
+<br>💬 Ask me about web development for your brand, our favorite 2022 anime shows, and intricate pattern designs
+
+
+
+
+🌱 Passionate about full stack web development, end user experience, and digital accessibility.
 👯 Looking to collaborate on Open-source projects.
-💬 Ask me about web development for your brand, our favorite 2022 anime shows, and intricate pattern designs
+💬 Ask me about accessible web development, houseplants, and baby goat memes.
+
+
+
 <!--
 **MANewby/MANewby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
