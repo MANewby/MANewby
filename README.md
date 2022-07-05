@@ -8,6 +8,8 @@
 <br>👯 Looking to collaborate on Open-source projects.
 <br>💬 Ask me about web site design and development for your brand, my favorite anime shows of all time, and rorschach style pattern designs.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manewby&theme=radical&show_icons=true)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=manewby&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=manewby&layout=compact)
