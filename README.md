@@ -8,6 +8,7 @@
 <br>👯 Looking to collaborate on Open-source projects.
 <br>💬 Ask me about web site design and development for your brand, my favorite anime shows of all time, and rorschach style pattern designs.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=manewby&theme=highcontrast&show_icons=true&count_private=true)
 
 <!--
 **MANewby/MANewby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
