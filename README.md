@@ -6,7 +6,7 @@
  
  
  
- ## Hiya I'm Maize A. V. Newby
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## Hiya I'm Maize A. V. Newby
  ____________________________________________________________________________________________________
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack software engineer with a background in game art and design, graphic design and illustration. I have skills in both front end and back end development, and I love to come up with creative solutions to complex problems. I am passionate about learning new languages and creating web applications to solve real world problems that are accessible to end users with various needs. I build these solutions using the MERN stack.
  
