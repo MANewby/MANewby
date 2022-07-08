@@ -13,14 +13,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack software engineer with a background in game art and design, graphic design and illustration. I have skills in both front end and back end development, and I love to come up with creative solutions to complex problems. I am passionate about learning new languages and creating web applications to solve real world problems that are accessible to end users with various needs. I build these solutions using the MERN stack.
  
  
-###### 😄 Pronouns: They/Them he/him
-###### ⚡ Fun fact: I have an original art piece that is on permanent display in an art gallery in Orquevaux, France.
+##### 😄 Pronouns: They/Them he/him
+##### ⚡ Fun fact: I have an original art piece that is on permanent display in an art gallery in Orquevaux, France.
 <br>🌱 Passionate about full stack web development, game development and illustration, and growing with a team of creative problem solvers.
 <br>👯 Looking to collaborate on Open-source projects.
 <br>💬 Ask me about web site design and development for your brand, my favorite anime shows of all time, and rorschach style pattern designs.
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,7 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
