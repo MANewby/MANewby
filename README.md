@@ -1,7 +1,6 @@
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/lBm4rgtyIPJmywXzLW/giphy.gif" align="center" width="50px" height="50"/>
 </h1>
 
 
