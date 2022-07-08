@@ -35,7 +35,8 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-manewby
+https://github-readme-streak-stats.herokuapp.com/?user=your-manewby
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manewby&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=manewby&layout=compact)
