@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/embeded/lnfzT3k8g7wpG/giphy.gif" width="100"/>
-</div>
+
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maize-newby-860363195/">
@@ -17,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=manewby&style=flat-square&color=blue" alt="stats"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/giphy.gif" width="600" height="300"/>
 </div>
 
 
