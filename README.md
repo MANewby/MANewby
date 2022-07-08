@@ -1,6 +1,6 @@
-[<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://giphy.com/embeded/lnfzT3k8g7wpG/giphy.gif" width="100"/>
-</div>](https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif)
+</div>(https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif)
 
 <!--
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lnfzT3k8g7wpG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+---
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
--->
+### :hammer_and_wrench: Languages and Tools :
