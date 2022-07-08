@@ -16,6 +16,9 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=manewby&style=flat-square&color=blue" alt="stats"/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" width="600" height="300"/>
+</div>
 
 
 <!--
