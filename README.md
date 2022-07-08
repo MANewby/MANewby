@@ -22,7 +22,7 @@
 
 
 <!--
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lnfzT3k8g7wpG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:50%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lnfzT3k8g7wpG" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 #<p><a href="https://giphy.com/gifs/animation-motion-graphics-purple-lnfzT3k8g7wpG">via GIPHY</a></p>
  -->
 ## Hiya I'm Maize A. V. Newby
