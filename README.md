@@ -32,11 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manewby&theme=radical&show_icons=true)
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-manewby
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=manewby&layout=compact)
