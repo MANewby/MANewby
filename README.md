@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/embeded/lnfzT3k8g7wpG/giphy.gif" width="100"/>
 </div>
 
+<!--
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/lnfzT3k8g7wpG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 #<p><a href="https://giphy.com/gifs/animation-motion-graphics-purple-lnfzT3k8g7wpG">via GIPHY</a></p>
- 
+ -->
 ## Hiya I'm Maize A. V. Newby
  ____________________________________________________________________________________________________
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack software engineer with a background in game art and design, graphic design and illustration. I have skills in both front end and back end development, and I love to come up with creative solutions to complex problems. I am passionate about learning new languages and creating web applications to solve real world problems that are accessible to end users with various needs. I build these solutions using the MERN stack.
