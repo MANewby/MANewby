@@ -37,9 +37,9 @@
  
 ##### 😄 Pronouns: They/Them he/him
 ##### ⚡ Fun fact: I have an original art piece that is on permanent display in an art gallery in Orquevaux, France.
-<br>🌱 Passionate about full stack web development, game development and illustration, and growing with a team of creative problem solvers.
-<br>🔭 Looking for my next role as an SWE/SWD
-<br>💬 Ask me about web site design and development for your brand, my favorite anime shows of all time, and rorschach style pattern designs.
+<br>🌱 Passionate about full stack web development, game development, illustration and story writing. Look continue learning and growing with a team of creative problem solvers.
+<br>🔭 Looking for my next role as an SWE/SWD 
+<br>💬 Ask me about web site design and development for your company/brand, my favorite anime shows of all time, and what story i am writing for my book now!
 
 
 ## :hammer_and_wrench: Languages and Tools :
