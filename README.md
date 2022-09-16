@@ -33,14 +33,14 @@
 ## <p align="center">Hiya I'm Maize!</p>
  ____________________________________________________________________________________________________
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a full stack software engineer with a background in game art and design, graphic design and illustration. I have skills in both front end and back end development, and I love to come up with creative solutions to complex problems. I am passionate about learning new languages and creating web applications to solve real world problems that are accessible to end users with various needs. I build these solutions using the MERN stack.
- 
+  
+ <br>🔭 Early career SWE looking for my next role 
  
 ##### 😄 Pronouns: They/Them he/him
 ##### ⚡ Fun fact: I have an original art piece that is on permanent display in an art gallery in Orquevaux, France.
-<br>🌱 Passionate about full stack web development, game development, illustration and story writing. Look continue learning and growing with a team of creative problem solvers.
-<br>🔭 Looking for my next role as an SWE/SWD 
-<br>💬 Ask me about web site design and development for your company/brand, my favorite anime shows of all time, and what story i am writing for my book now!
-
+<br>🌱 Passionate about full stack web development, game development, illustration and story writing. 
+<br>🌱 Look continue learning and growing with a team of creative problem solvers.
+<br>💬 Ask me about web site design and development for your company/brand, my favorite anime shows of all time, and how i am bringing my art project skills into the AR tech world
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
