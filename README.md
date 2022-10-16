@@ -38,8 +38,8 @@
  
 ##### 😄 Pronouns: They/Them he/him
 ##### ⚡ Fun fact: I have an original art piece that is on permanent display in an art gallery in Orquevaux, France.
-<br>🌱 Passionate about full stack web development, game development, illustration and story writing. 
-<br>🌱 Look continue learning and growing with a team of creative problem solvers.
+<br>🌱 Passionate about full stack web development, game development, AR and illustration and story writing. 
+<br>🌱 Here to continue learning and growing with a team of creative problem solvers.
 <br>💬 Ask me about web site design and development for your company/brand, my favorite anime shows of all time, and how i am bringing my art project skills into the AR tech world
 
 ## :hammer_and_wrench: Languages and Tools :
